@@ -57,5 +57,5 @@
         }else{
             $menorTemp = "--";
             $menorDataHora = "--";
-        } /*line 72*/
+        } /*line 72* finished /
     }
