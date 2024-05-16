@@ -59,4 +59,3 @@
             $menorDataHora = "--";
         } /*line 72*/
     }
-}
